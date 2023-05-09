@@ -124,40 +124,40 @@ Global variables can be used by everyone, both inside of functions and outside.
 Name = "Vagan Arora"
 print(Name)
 
-#Extercisec 2
+#Exercises 2
 #Create a variable called “age” and set it equal to your age
 
 age = 2
 print(age)
 
-#Extercisec 3
+#Exercises 3
 #Create a variable called “favorite_number” and set it equal to your favorite number.
 
 favorite_number = 29
 print(favorite_number)
 
-#Extercisec 4
+#Exercises 4
 # Create a variable called “gpa” and set it equal to your current grade point average.
 
-#Extercisec 5
+#Exercises 5
 #Create a variable called “favorite_animal” and set it equal to your favorite animal.
 
 favorite_animal   = "Alka"
 print(favorite_animal)
 
 #Create a variable called “favorite_color” and set it equal to your favorite color.
-#Extercisec 6
+#Exercises 6
 favorite_color  = "Black"
 
 
-#Extercisec 7
+#Exercises 7
 #Create a variable called “hobby” and set it equal to your favorite hobby.
 
 Hobby = "Tech"
 print(Hobby)
 
 
-#Extercisec 8
+#Exercises 8
 #Create a variable called “dream_job” and set it equal to your dream job.
 
 dream_job = "In Hacking"
